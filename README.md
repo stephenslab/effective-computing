@@ -29,9 +29,10 @@ provide a link to the
 if changes were made. You may do so in any reasonable manner, but not
 in any way that suggests the licensor endorses you or your use.
 
-*Title inspired by [Effective Computation in Physics][scopatz-huff].
-
 ## Credits
 
 People who have contributed to these materials: John Blischak, Peter
 Carbonetto, Matthew Stephens.
+
+*Title inspired by [Effective Computation in Physics][scopatz-huff].
+

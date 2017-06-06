@@ -2,7 +2,8 @@
 
 The default colors in R (e.g., ggplot2) are not great, and indeed
 there are much better coloring schemes. This is one that is intended
-to be more visually distinguishable and "color blind safe":
+to be more visually distinguishable for people affected by color
+blindness:
 
 ```R
 colors <- c("#E69F00","#56B4E9","#009E73","#F0E442",

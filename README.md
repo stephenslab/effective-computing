@@ -11,11 +11,32 @@ achieve these aims.
 
 + Effective Computation in Physics
 
++ [Software Carpentry](http://software-carpentry.org).
+
+## Programming and software design
+
++ [Software development is inherently
+wicked.](https://blog.codinghorror.com/development-is-inherently-wicked)
+
 ## Plots and data visualization
 
-+ [Color scheme optimized for color-blind individuals.](R-color.md)
++ It is important to [choose colors wisely](R-color.md) so that they are
+visually distinguishable by most people.
 
 ## R
+
+*Add links here.*
+
+## Best Practices
+
++ [Good Enough Practices in Scientific
+Computing](https://arxiv.org/abs/1609.00037).
+
++ [Best Practices for Scientific
+Computing](https://dx.doi.org/10.1371/journal.pbio.1001745).
+
++ [Guidance on licenses for open source
+projects](https://github.com/github/choosealicense.com).
 
 ## License
 
@@ -40,7 +61,4 @@ in any way that suggests the licensor endorses you or your use.
 People who have contributed to these materials: John Blischak, Peter
 Carbonetto, Matthew Stephens.
 
-*Title adapted from [Effective Computation in Physics][scopatz-huff].
-
-[scopatz-huff]: http://physics.codes
-
+*Title adapted from [Effective Computation in Physics][http://physics.codes].

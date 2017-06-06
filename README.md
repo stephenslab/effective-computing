@@ -1,7 +1,9 @@
 # Effective Computing for Computational Biologists*
 
-A curated list of recommended resources... *Add summary of repository
-here.*
+"Effective Computing" is about improving your skills and adopting Best
+Practices to help make you a better programmer, and *therefore a
+better scientist.* This is a curated list of resources to help you
+achieve these aims.
 
 ## General
 
@@ -9,7 +11,11 @@ here.*
 
 + Effective Computation in Physics
 
-[scopatz-huff]: http://physics.codes
+## Plots and data visualization
+
++ [Color scheme optimized for color-blind individuals.](R-color.md)
+
+## R
 
 ## License
 
@@ -34,5 +40,7 @@ in any way that suggests the licensor endorses you or your use.
 People who have contributed to these materials: John Blischak, Peter
 Carbonetto, Matthew Stephens.
 
-*Title inspired by [Effective Computation in Physics][scopatz-huff].
+*Title adapted from [Effective Computation in Physics][scopatz-huff].
+
+[scopatz-huff]: http://physics.codes
 

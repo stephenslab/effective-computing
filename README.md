@@ -1,17 +1,23 @@
 # Effective Computing for Computational Biologists*
 
-"Effective Computing" is about improving your skills and adopting Best
-Practices to help make you a better programmer, and *therefore a
-better scientist.* This is a curated list of resources to help you
-achieve these aims.
+Effective Computing is about improving your skills and adopting Best
+Practices to help make you a better programmer, *and a better
+scientist.* This is a curated list of resources to help you achieve
+these aims.
 
 ## General
 
-+ Practical Computing for Biologists
++ [Practical Computing for Biologists](http://practicalcomputing.org).
 
-+ Effective Computation in Physics
++ [Effective Computation in Physics](http://physics.codes).
 
-+ [Software Carpentry](http://software-carpentry.org).
++ [Software Carpentry](http://software-carpentry.org/lessons).
+
+## Organization, documentation and version control
+
++ [Pro Git](https://git-scm.com/book).
+
++ [workflowr R package](https://github.com/jdblischak/workflowr).
 
 ## Programming and software design
 
@@ -25,7 +31,11 @@ visually distinguishable by most people.
 
 ## R
 
-*Add links here.*
++ [R techniques for Data Science](http://r4ds.had.co.nz).
+
++ [Some advanced topics in R](http://adv-r.had.co.nz).
+
++ [Short guide to writing your own R package](http://r-pkgs.had.co.nz).
 
 ## Best Practices
 
@@ -35,8 +45,12 @@ Computing](https://arxiv.org/abs/1609.00037).
 + [Best Practices for Scientific
 Computing](https://dx.doi.org/10.1371/journal.pbio.1001745).
 
-+ [Guidance on licenses for open source
-projects](https://github.com/github/choosealicense.com).
++ Licenses for open source projects:
+[choosing a license](https://github.com/github/choosealicense.com);
+[how to add a license to a project](https://github.com/github/choosealicense.com/issues/243); 
+[licensing data](https://wiki.creativecommons.org/wiki/Data#Which_components_of_databases_are_protected_by_copyright.3F).
+
++
 
 ## License
 
@@ -61,4 +75,4 @@ in any way that suggests the licensor endorses you or your use.
 People who have contributed to these materials: John Blischak, Peter
 Carbonetto, Matthew Stephens.
 
-*Title adapted from [Effective Computation in Physics][http://physics.codes].
+*Title adapted from [Effective Computation in Physics](http://physics.codes).

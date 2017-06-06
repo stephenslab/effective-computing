@@ -14,7 +14,7 @@ resources to help you achieve these aims.
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 
-## Organizing, documenting and sharing, including version control
+## Tools for organizing, documenting and sharing, including version control
 
 + [An introduction to the basics of git and
 Github](https://doi.org/10.1371/journal.pcbi.1004668).
@@ -24,7 +24,7 @@ Github](https://doi.org/10.1371/journal.pcbi.1004668).
 + [workflowr R package](https://github.com/jdblischak/workflowr).
 
 + Creating a "permanent resource" for your project:
-[Zenodo](http://zenodo.org)
+[Zenodo](http://zenodo.org); [Data Dryad](http://datadryad.org).
 
 ## Programming and software design
 
@@ -52,10 +52,22 @@ Computing](https://arxiv.org/abs/1609.00037).
 + [Best Practices for Scientific
 Computing](https://doi.org/10.1371/journal.pbio.1001745).
 
++ Some more recommended practices:
+[Noble, 2009](https://doi.org/10.1371/journal.pcbi.1000424).
+
 + Licenses for open source projects:
 [choosing a license](https://github.com/github/choosealicense.com);
 [how to add a license to a project](https://github.com/github/choosealicense.com/issues/243); 
 [licensing data](https://wiki.creativecommons.org/wiki/Data#Which_components_of_databases_are_protected_by_copyright.3F).
+
+## Advocacy
+
++ [Ince *et al* (2012) The case for open computer
+programs](https://doi.org/10.1038/nature10836).
+
++ Morin et al 
+
++ Peng 
 
 ## License
 

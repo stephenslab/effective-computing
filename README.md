@@ -2,8 +2,9 @@
 
 Effective Computing is about improving your skills and adopting Best
 Practices to help make you a better programmer, *and a better
-scientist.* This is a curated list of resources to help you achieve
-these aims.
+scientist.* This is a curated [short
+list](https://www.merriam-webster.com/dictionary/shortlist) of
+resources to help you achieve these aims.
 
 ## General
 
@@ -13,11 +14,17 @@ these aims.
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 
-## Organization, documentation and version control
+## Organizing, documenting and sharing, including version control
+
++ [An introduction to the basics of git and
+Github](https://doi.org/10.1371/journal.pcbi.1004668).
 
 + [Pro Git](https://git-scm.com/book).
 
 + [workflowr R package](https://github.com/jdblischak/workflowr).
+
++ Creating a "permanent resource" for your project:
+[Zenodo](http://zenodo.org)
 
 ## Programming and software design
 
@@ -43,14 +50,12 @@ visually distinguishable by most people.
 Computing](https://arxiv.org/abs/1609.00037).
 
 + [Best Practices for Scientific
-Computing](https://dx.doi.org/10.1371/journal.pbio.1001745).
+Computing](https://doi.org/10.1371/journal.pbio.1001745).
 
 + Licenses for open source projects:
 [choosing a license](https://github.com/github/choosealicense.com);
 [how to add a license to a project](https://github.com/github/choosealicense.com/issues/243); 
 [licensing data](https://wiki.creativecommons.org/wiki/Data#Which_components_of_databases_are_protected_by_copyright.3F).
-
-+
 
 ## License
 

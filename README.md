@@ -54,6 +54,8 @@ wicked.](https://blog.codinghorror.com/development-is-inherently-wicked)
 
 ## Plots and data visualization
 
++ [D3](https://github.com/d3/d3) ("Data-Driven Documents").
+
 + It is important to [choose colors wisely](R-color.md) so that they are
 visually distinguishable by most people.
 

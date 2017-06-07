@@ -18,7 +18,8 @@ resources to help you achieve these aims.
 
 ## Organizing, documenting and sharing, including version control
 
-+ [Github](), [Bitbucket]() and [Gitlab]().
++ [Github](http://github.com), [Bitbucket](http://bitbucket.org) and
+[Gitlab](http://gitlab.com).
 
 + [An introduction to the basics of git and
 Github](https://doi.org/10.1371/journal.pcbi.1004668).
@@ -47,6 +48,28 @@ visually distinguishable by most people.
 + [Some advanced topics in R](http://adv-r.had.co.nz).
 
 + [Short guide to writing your own R package](http://r-pkgs.had.co.nz).
+
+## Python
+
+*Links needed.*
+
+## Containers and package managers
+
++ [Explanation](https://bioconda.github.io/faqs.html#conda-anaconda-minconda)
+of the difference between Anaconda, conda and Miniconda.
+
+## Linux and the UNIX shell
+
+*Links needed.*
+
+## macOS (previously Mac OS X)
+
++ Package managers: [Homebrew](https://brew.sh) and
+[MacPorts](https://www.macports.org).
+
+## Bioinformatics and computational biology resources
+
++ [Bioconda](https://bioconda.github.io).
 
 ## Best Practices
 

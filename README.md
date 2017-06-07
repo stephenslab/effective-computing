@@ -6,7 +6,7 @@ scientist.* This is a curated [short
 list](https://www.merriam-webster.com/dictionary/shortlist) of
 resources to help you achieve these aims.
 
-We welcome community contributions. If you have a suggestion or comment,
+*We welcome community contributions.* If you have a suggestion or comment,
 please post an
 [Issue](https://github.com/stephenslab/effective-computing/issues).
 
@@ -31,6 +31,8 @@ please post an
 Github](https://doi.org/10.1371/journal.pcbi.1004668).
 
 + [Pro Git](https://git-scm.com/book).
+
++ [Git Extras](https://github.com/tj/git-extras).
 
 + [Markdown](http://daringfireball.net/projects/markdown/syntax).
 
@@ -70,6 +72,9 @@ see in particular []().
 
 + [Short guide to writing your own R package](http://r-pkgs.had.co.nz).
 
++ [Tutorials](https://github.com/lgatto/TeachingMaterial) on a variety
+of topics in R, from basic to advanced.
+
 ## Python
 
 *Links needed.*
@@ -85,10 +90,20 @@ of the difference between Anaconda, conda and Miniconda.
 
 ## macOS (previously Mac OS X)
 
-+ [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup).
++ [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup) for
+development. [More setup
+advice](https://github.com/nicolashery/mac-dev-setup).
 
 + Package managers: [Homebrew](https://brew.sh),
 [MacPorts](https://www.macports.org).
+
+## Development tools and environments
+
++ Text editors:
+[emacs](https://www.gnu.org/software/emacs),
+[vim](http://www.vim.org),
+[Sublime](https://www.sublimetext.com), 
+[Atom](https://atom.io).
 
 ## Bioinformatics and computational biology resources
 

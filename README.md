@@ -16,6 +16,8 @@ resources to help you achieve these aims.
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 
++ [Data Carpentry](http://www.datacarpentry.org/lessons).
+
 ## Organizing, documenting and sharing (including version control)
 
 + [Github](http://github.com), [Bitbucket](http://bitbucket.org) and
@@ -26,10 +28,18 @@ Github](https://doi.org/10.1371/journal.pcbi.1004668).
 
 + [Pro Git](https://git-scm.com/book).
 
++ [Markdown](http://daringfireball.net/projects/markdown/syntax).
+
 + [workflowr R package](https://github.com/jdblischak/workflowr).
 
 + Creating a "permanent resource" for your project:
 [Zenodo](http://zenodo.org); [Data Dryad](http://datadryad.org).
+
++ [A short tutorial](http://kbroman.org/simple_site) by Karl Broman on
+creating a website from Markdown using
+[Github Pages](https://pages.github.com). See also [this short
+tutorial](http://jmcglone.com/notes/2014/05/03/using-github-to-create-and-host-a-personal-website)
+on creating a website using Github and Jekyll.
 
 ## Programming and software design
 
@@ -46,6 +56,9 @@ visually distinguishable by most people.
 + [CRAN](http://cran.r-project.org),
 [BioConductor](http://bioconductor.org),
 [RStudio](http://rstudio.com).
+
++ [Efficient R Programming](https://csgillespie.github.io/efficientR),
+see in particular []().
 
 + [R techniques for Data Science](http://r4ds.had.co.nz).
 
@@ -67,6 +80,8 @@ of the difference between Anaconda, conda and Miniconda.
 *Links needed.*
 
 ## macOS (previously Mac OS X)
+
++ [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup).
 
 + Package managers: [Homebrew](https://brew.sh),
 [MacPorts](https://www.macports.org).

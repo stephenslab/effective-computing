@@ -14,7 +14,9 @@ resources to help you achieve these aims.
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 
-## Tools for organizing, documenting and sharing, including version control
+## Organizing, documenting and sharing, including version control
+
++ [Github](), [Bitbucket]() and [Gitlab]().
 
 + [An introduction to the basics of git and
 Github](https://doi.org/10.1371/journal.pcbi.1004668).
@@ -62,12 +64,14 @@ Computing](https://doi.org/10.1371/journal.pbio.1001745).
 
 ## Advocacy
 
-+ [Ince *et al* (2012) The case for open computer
++ Ince *et al* (2012) [The case for open computer
 programs](https://doi.org/10.1038/nature10836).
 
-+ Morin et al 
++ Morin *et al* (2012) [Shining light into black
+boxes](https://doi.org/10.1126/science.1218263).
 
-+ Peng 
++ R. D. Peng (2011) [Reproducible Research in Computational
+Science](https://doi.org/10.1126/science.1213847).
 
 ## License
 

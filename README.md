@@ -16,7 +16,7 @@ resources to help you achieve these aims.
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 
-## Organizing, documenting and sharing, including version control
+## Organizing, documenting and sharing (including version control)
 
 + [Github](http://github.com), [Bitbucket](http://bitbucket.org) and
 [Gitlab](http://gitlab.com).
@@ -43,6 +43,10 @@ visually distinguishable by most people.
 
 ## R
 
++ [CRAN](http://cran.r-project.org),
+[BioConductor](http://bioconductor.org),
+[RStudio](http://rstudio.com).
+
 + [R techniques for Data Science](http://r4ds.had.co.nz).
 
 + [Some advanced topics in R](http://adv-r.had.co.nz).
@@ -64,7 +68,7 @@ of the difference between Anaconda, conda and Miniconda.
 
 ## macOS (previously Mac OS X)
 
-+ Package managers: [Homebrew](https://brew.sh) and
++ Package managers: [Homebrew](https://brew.sh),
 [MacPorts](https://www.macports.org).
 
 ## Bioinformatics and computational biology resources

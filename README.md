@@ -6,6 +6,10 @@ scientist.* This is a curated [short
 list](https://www.merriam-webster.com/dictionary/shortlist) of
 resources to help you achieve these aims.
 
+We welcome community contributions. If you have a suggestion or comment,
+please post an
+[Issue](https://github.com/stephenslab/effective-computing/issues).
+
 ## General
 
 + [Practical Computing for Biologists](http://practicalcomputing.org).

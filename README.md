@@ -66,7 +66,7 @@ visually distinguishable by most people.
 [RStudio](http://rstudio.com).
 
 + [Efficient R Programming](https://csgillespie.github.io/efficientR),
-see in particular []().
+see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/set-up.html).
 
 + [R techniques for Data Science](http://r4ds.had.co.nz).
 

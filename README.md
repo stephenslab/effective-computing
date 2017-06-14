@@ -125,6 +125,8 @@ Computing](https://doi.org/10.1371/journal.pbio.1001745).
 + [10 simple rules for making research software more
 robust](https://doi.org/10.1371/journal.pcbi.1005412).
 
++ [GNU Coding Standards](https://www.gnu.org/prep/standards).
+
 + Licenses for open source projects:
 [choosing a license](https://github.com/github/choosealicense.com);
 [how to add a license to a project](https://github.com/github/choosealicense.com/issues/243); 

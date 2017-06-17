@@ -79,11 +79,7 @@ of topics in R, from basic to advanced.
 
 ## Python
 
-+ [explainshell.com](https://explainshell.com): resource for
-understanding shell scripts.
-
-+ [Bash scripting cheat
-sheet](http://johnstowers.co.nz/pages/bash-cheat-sheet.html).
+*Links needed.*
 
 ## Containers and package managers
 
@@ -92,7 +88,11 @@ of the difference between Anaconda, conda and Miniconda.
 
 ## Linux and the UNIX shell
 
-*Links needed.*
++ [explainshell.com](https://explainshell.com): resource for
+understanding shell scripts.
+
++ [Bash scripting cheat
+sheet](http://johnstowers.co.nz/pages/bash-cheat-sheet.html).
 
 ## macOS (previously Mac OS X)
 

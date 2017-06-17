@@ -79,7 +79,11 @@ of topics in R, from basic to advanced.
 
 ## Python
 
-*Links needed.*
++ [explainshell.com](https://explainshell.com): resource for
+understanding shell scripts.
+
++ [Bash scripting cheat
+sheet](http://johnstowers.co.nz/pages/bash-cheat-sheet.html).
 
 ## Containers and package managers
 

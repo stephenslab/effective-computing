@@ -77,6 +77,8 @@ see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/se
 + [Tutorials](https://github.com/lgatto/TeachingMaterial) on a variety
 of topics in R, from basic to advanced.
 
++ [Google's R programming style guide](https://google.github.io/styleguide/Rguide.xml) aimed at making R code easier to read, share and verify.
+
 ## Python
 
 *Links needed.*

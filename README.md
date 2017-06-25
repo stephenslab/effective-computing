@@ -120,7 +120,7 @@ advice](https://github.com/nicolashery/mac-dev-setup).
 ## Best Practices
 
 + [Good Enough Practices in Scientific
-Computing](https://arxiv.org/abs/1609.00037).
+Computing](https://doi.org/10.1371/journal.pcbi.1005510).
 
 + [Best Practices for Scientific
 Computing](https://doi.org/10.1371/journal.pbio.1001745).

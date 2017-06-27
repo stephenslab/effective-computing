@@ -22,6 +22,9 @@ please post an
 
 + [Data Carpentry](http://www.datacarpentry.org/lessons).
 
++ [OHI "Better Science in Less Time" list of
+resources](http://ohi-science.org/news/Resources-for-R-and-Data-Science).
+
 ## Organizing, documenting and sharing (including version control)
 
 + [Github](http://github.com), [Bitbucket](http://bitbucket.org) and

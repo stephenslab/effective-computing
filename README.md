@@ -55,6 +55,9 @@ on creating a website using Github and Jekyll.
 + [Software development is inherently
 wicked.](https://blog.codinghorror.com/development-is-inherently-wicked)
 
++ [Jeff Leek's guide to developing R
+packages](https://github.com/jtleek/rpackages) (cross-listed below).
+
 ## Plots and data visualization
 
 + [D3](https://github.com/d3/d3) ("Data-Driven Documents").
@@ -76,6 +79,9 @@ see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/se
 + [Some advanced topics in R](http://adv-r.had.co.nz).
 
 + [Short guide to writing your own R package](http://r-pkgs.had.co.nz).
+
++ [Jeff Leek's guide to developing R
+packages](https://github.com/jtleek/rpackages) (cross-listed above).
 
 + [Tutorials](https://github.com/lgatto/TeachingMaterial) on a variety
 of topics in R, from basic to advanced.

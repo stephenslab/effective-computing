@@ -105,6 +105,11 @@ understanding shell scripts.
 + [Bash scripting cheat
 sheet](http://johnstowers.co.nz/pages/bash-cheat-sheet.html).
 
++ [ShellCheck](http://www.shellcheck.net) find bugs in your shell
+scripts.
+
++ [TLDR pages](http://tldr.sh): shell commands reference by example.
+
 ## macOS (previously Mac OS X)
 
 + [Mac OS X Setup Guide](http://sourabhbajaj.com/mac-setup) for

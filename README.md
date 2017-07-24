@@ -41,9 +41,7 @@ Github](https://doi.org/10.1371/journal.pcbi.1004668).
 
 + [workflowr R package](https://github.com/jdblischak/workflowr).
 
-+ [MathJax reference](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
-MathJax allows you to quickly embed math formulae into webpages,
-including webpages generated from Markdown and R Markdown documents.
++ Embedding math in webpages: [MathJax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
 
 + Creating a "permanent resource" for your project:
 [Zenodo](http://zenodo.org); [Data Dryad](http://datadryad.org).

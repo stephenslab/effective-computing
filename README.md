@@ -41,6 +41,9 @@ Github](https://doi.org/10.1371/journal.pcbi.1004668).
 
 + [workflowr R package](https://github.com/jdblischak/workflowr).
 
++ [Reference on the MathJax tool for quickly embedding math formulae into
+webpages](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+
 + Creating a "permanent resource" for your project:
 [Zenodo](http://zenodo.org); [Data Dryad](http://datadryad.org).
 

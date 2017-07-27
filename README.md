@@ -39,6 +39,12 @@ Github](https://doi.org/10.1371/journal.pcbi.1004668).
 
 + [Markdown](http://daringfireball.net/projects/markdown/syntax).
 
++ [R Markdown](http://rmarkdown.rstudio.com).
+
++ [Jupyter notebooks](https://jupyter.org). See
+[here](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) for
+the list of >40 programming languges supported by Jupyter notebooks.
+
 + [workflowr R package](https://github.com/jdblischak/workflowr).
 
 + Embedding math in webpages: [MathJax](https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
@@ -95,6 +101,8 @@ of topics in R, from basic to advanced.
 *Links needed.*
 
 ## Containers and package managers
+
++ [Anaconda](https://www.continuum.io).
 
 + [Explanation](https://bioconda.github.io/faqs.html#conda-anaconda-minconda)
 of the difference between Anaconda, conda and Miniconda.

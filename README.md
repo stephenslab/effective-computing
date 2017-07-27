@@ -165,6 +165,10 @@ boxes](https://doi.org/10.1126/science.1218263).
 + R. D. Peng (2011) [Reproducible Research in Computational
 Science](https://doi.org/10.1126/science.1213847).
 
++ [The state of Jupyter](https://www.oreilly.com/ideas/the-state-of-jupyter)
+by Fernando Perez and Brian Granger: How Project Jupyter got here and
+where we are headed.
+
 ## License
 
 Copyright (c) Peter Carbonetto, 2017

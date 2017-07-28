@@ -16,7 +16,7 @@ please post an
 
 + [Effective Computation in Physics](http://physics.codes).
 
-+ [Intro to Scientific Computing for Biologists][http://allesinalab.uchicago.edu/wp-content/uploads/2014/05/IntroSciComp2014.pdf].
++ [Intro to Scientific Computing for Biologists](http://allesinalab.uchicago.edu/wp-content/uploads/2014/05/IntroSciComp2014.pdf).
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 

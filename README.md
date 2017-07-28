@@ -16,7 +16,7 @@ please post an
 
 + [Effective Computation in Physics](http://physics.codes).
 
-+ [Intro to Scientific Computing for Biologists][allesina].
++ [Intro to Scientific Computing for Biologists][http://allesinalab.uchicago.edu/wp-content/uploads/2014/05/IntroSciComp2014.pdf].
 
 + [Software Carpentry](http://software-carpentry.org/lessons).
 
@@ -202,4 +202,3 @@ Carbonetto, Matthew Stephens.
 
 *Title adapted from [Effective Computation in Physics](http://physics.codes).
 
-[allesina]: http://allesinalab.uchicago.edu/wp-content/uploads/2014/05/IntroSciComp2014.pdf "Stefano Allesina's book"

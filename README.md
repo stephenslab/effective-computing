@@ -75,9 +75,11 @@ visually distinguishable by most people.
 
 ## R
 
-+ [CRAN](http://cran.r-project.org),
-[BioConductor](http://bioconductor.org),
-[RStudio](http://rstudio.com).
++ [CRAN](http://cran.r-project.org).
+
++ [BioConductor](http://bioconductor.org).
+
++ [RStudio](http://rstudio.com).
 
 + [Efficient R Programming](https://csgillespie.github.io/efficientR),
 see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/set-up.html).

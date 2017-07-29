@@ -84,7 +84,7 @@ visually distinguishable by most people.
 + [Efficient R Programming](https://csgillespie.github.io/efficientR),
 see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/set-up.html).
 
-+ [R techniques for Data Science](http://r4ds.had.co.nz).
++ [R for Data Science](http://r4ds.had.co.nz).
 
 + [Some advanced topics in R](http://adv-r.had.co.nz).
 
@@ -97,6 +97,18 @@ packages](https://github.com/jtleek/rpackages) (cross-listed above).
 of topics in R, from basic to advanced.
 
 + [Google's R programming style guide](https://google.github.io/styleguide/Rguide.xml) aimed at making R code easier to read, share and verify.
+
++ [Introductory Statistics with R](http://staff.pubhealth.ku.dk/~pd/ISwR.html).
+
++ [Data Analysis for the Life
+Sciences](https://leanpub.com/dataanalysisforthelifesciences) is available
+or free and all the examples and data anlyses are done in R. See 
+[here](https://genomicsclass.github.io/book) for the R Markdown source
+in the book.
+
++ [STAT Labs: Mathematical Statistics through
+Applications](https://www.stat.berkeley.edu/~statlabs) uses R in its
+data analysis examples.
 
 ## Python
 

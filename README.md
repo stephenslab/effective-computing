@@ -121,7 +121,16 @@ data analysis examples.
 + [Explanation](https://bioconda.github.io/faqs.html#conda-anaconda-minconda)
 of the difference between Anaconda, conda and Miniconda.
 
-## Linux and the UNIX shell
+## Linux, the UNIX shell, and bash scripts
+
++ [Well-maintained Linux guides](http://tldp.org/guides.html), including the
+[Advanced Bash-scripting guide](http://tldp.org/LDP/abs/html).
+Appendix B of the Advanced Bash-scripting guide is a
+[useful reference card](http://tldp.org/LDP/abs/html/refcards.html).
+
++ [Julia Evans' Bash scripting quirks & safety
+tips](https://jvns.ca/blog/2017/03/26/bash-quirks): an accessible
+primer on writing bash scripts.
 
 + [explainshell.com](https://explainshell.com): resource for
 understanding shell scripts.

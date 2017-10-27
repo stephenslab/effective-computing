@@ -110,9 +110,16 @@ in the book.
 Applications](https://www.stat.berkeley.edu/~statlabs) uses R in its
 data analysis examples.
 
++ [Generalized Linear Models course at Princeton University](http://data.princeton.edu/wws509/R) with detailed illustrations of using
+  generalized linear models in R.
+
++ [R tutorials](http://tutorials.iq.harvard.edu) available from the
+  Institute For Quantitative Social Science at Harvard.
+
 ## Python
 
-*Links needed.*
++ [Python tutorials](http://tutorials.iq.harvard.edu) available from
+  the Institute For Quantitative Social Science at Harvard.
 
 ## Containers and package managers
 

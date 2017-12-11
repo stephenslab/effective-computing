@@ -27,6 +27,10 @@ resources](http://ohi-science.org/news/Resources-for-R-and-Data-Science).
 
 ## Organizing, documenting and sharing (including version control)
 
++ [A guide to reproducible code in ecology and
+evolution](http://www.britishecologicalsociety.org/publications/guides-to):
+skills and tips for making your code more reproducible.
+
 + [Github](http://github.com), [Bitbucket](http://bitbucket.org) and
 [Gitlab](http://gitlab.com).
 

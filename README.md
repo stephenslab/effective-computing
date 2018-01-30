@@ -93,6 +93,8 @@ see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/se
 
 + [Some advanced topics in R](http://adv-r.had.co.nz).
 
++ [Unofficial Rcpp documentation](https://thecoatlessprofessor.com/programming/unofficial-rcpp-api-documentation): a reference for [Rcpp](https://cran.r-project.org/package=Rcpp) all in one place.
+
 + [Short guide to writing your own R package](http://r-pkgs.had.co.nz).
 
 + [Jeff Leek's guide to developing R

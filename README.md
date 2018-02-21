@@ -68,6 +68,10 @@ on creating a website using Github and Jekyll.
 + [Software development is inherently
 wicked.](https://blog.codinghorror.com/development-is-inherently-wicked)
 
++ [Rubber duck debugging](https://en.wikipedia.org/wiki/Rubber_duck_debugging)
+
++ [The Practical Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer), a book giving practical tips for software development.
+
 + [Jeff Leek's guide to developing R
 packages](https://github.com/jtleek/rpackages) (cross-listed below).
 

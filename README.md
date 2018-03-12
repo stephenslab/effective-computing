@@ -132,6 +132,17 @@ data analysis examples.
 + [Python tutorials](http://tutorials.iq.harvard.edu) available from
   the Institute For Quantitative Social Science at Harvard.
 
+## Julia
+
++ [Fast Tack to Julia](https://juliadocs.github.io/Julia-Cheat-Sheet):
+  a quick and dirty overview of Julia.
+
++ [The Julia Express](https://github.com/bkamins/The-Julia-Express): a
+  concise Julia language introductory manual for programmers.
+
++ [Julia Manual](https://docs.julialang.org): the official
+  documentation for the Julia Language.
+
 ## Containers and package managers
 
 + [Anaconda](https://www.continuum.io).

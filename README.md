@@ -214,6 +214,8 @@ robust](https://doi.org/10.1371/journal.pcbi.1005412).
 [how to add a license to a project](https://github.com/github/choosealicense.com/issues/243); 
 [licensing data](https://wiki.creativecommons.org/wiki/Data#Which_components_of_databases_are_protected_by_copyright.3F).
 
++ [Making your code citable](https://guides.github.com/activities/citable-code/).
+
 ## Advocacy
 
 + Ince *et al* (2012) [The case for open computer

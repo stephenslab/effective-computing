@@ -93,8 +93,8 @@ visually distinguishable by most people.
 + [Efficient R Programming](https://csgillespie.github.io/efficientR),
 see in particular [Efficient set-up](https://csgillespie.github.io/efficientR/set-up.html).
 
-+ [Software for Data Analysis: Programming with R by
-John Chambers](http://dx.doi.org/10.1007/978-0-387-75936-4)
++ [Software for Data Analysis: Programming
+with R](http://dx.doi.org/10.1007/978-0-387-75936-4) by John Chambers.
 
 + [R for Data Science](http://r4ds.had.co.nz).
 

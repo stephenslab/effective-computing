@@ -22,6 +22,10 @@ please post an
 
 + [Data Carpentry](http://www.datacarpentry.org/lessons).
 
++ [The Missing Semester of Your CS Education](https://missing.csail.mit.edu).
+
++ [NCEAS "hacking skills" lessons](https://nceas.github.io/oss-2017).
+
 + [OHI "Better Science in Less Time" list of
 resources](http://ohi-science.org/news/Resources-for-R-and-Data-Science).
 
